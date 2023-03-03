@@ -1,0 +1,17 @@
+{
+  "name": "admanesachin\/test-package-a",
+  "version": "0.1.1-beta1",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "admanesachin\\TestPackageA\\": "src\/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Sachin Admane",
+      "email": "sadmane@adobe.com"
+    }
+  ],
+  "require": []
+}
